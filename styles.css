@@ -1,0 +1,15 @@
+h1 {
+    margin: 0;
+}
+
+canvas {
+    border: 2px solid black;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+#precision {
+    width: 800px;
+}
